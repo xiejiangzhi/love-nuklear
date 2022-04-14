@@ -26,6 +26,7 @@
 #define NK_VECTOR_STACK_SIZE 128
 #define NK_FLAGS_STACK_SIZE 64
 #define NK_COLOR_STACK_SIZE 256
+#define NK_BUTTON_TRIGGER_ON_RELEASE
 #include "nuklear/nuklear.h"
 
 /*
